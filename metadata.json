@@ -1,0 +1,7 @@
+{
+  "name": "Pulse Nightclub - Premium Reservation",
+  "description": "A high-end luxury nightclub reservation system featuring a real-time table selector, dynamic guest management, and an admin command center.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
