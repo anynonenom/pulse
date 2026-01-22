@@ -274,11 +274,11 @@ export const SuperAdminPortal: React.FC<Props> = ({
                 <h4 className="text-xl font-black italic uppercase text-white">Kernel Logs</h4>
              </div>
              <div className="space-y-4 font-mono text-[7px] text-zinc-600 uppercase">
-                <p>> SHIELD_CORE_BOOTING... [OK]</p>
-                <p>> NEURAL_LINK_ESTABLISHED... [OK]</p>
-                <p>> SCANNING_NODES_01-04... [OK]</p>
-                <p>> ROOT_ID_VERIFIED: EIDEN_MASTER</p>
-                <p>> FIREWALL_LEVEL_MAX... [OK]</p>
+                <p>&gt; SHIELD_CORE_BOOTING... [OK]</p>
+                <p>&gt; NEURAL_LINK_ESTABLISHED... [OK]</p>
+                <p>&gt; SCANNING_NODES_01-04... [OK]</p>
+                <p>&gt; ROOT_ID_VERIFIED: EIDEN_MASTER</p>
+                <p>&gt; FIREWALL_LEVEL_MAX... [OK]</p>
              </div>
           </div>
         </div>
